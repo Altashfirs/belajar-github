@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, Index!" << endl;
+    cout << "Hello, Albin!" << endl;
     return 0;
 }
